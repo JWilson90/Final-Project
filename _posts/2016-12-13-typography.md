@@ -1,6 +1,9 @@
 ---
 title: Future of Photogrammetry
 ---
+
+
+
 # An Example of the Future in Digital Technologies Application to Archaeolgy
 
 Photogrammetry is a technology based photography system that takes multiple pictures of a single object or landscape and through technologies such as Autodesk on can create a 3-dimensional portrayal of the desired image compilation.  This technology is not new, though in the next 5 years there are possibilities for the advancement of photogrammetry.  The current created images through photogrammetry are getting larger and more complex, even to the point of creating 3d images of the side of mountains.  Other developments in the field of photogrammetry are looking at the possibilities of underwater images (Drap 2013).  Examples of underwater photography of archaeological sites have been through excavations by scuba divers, and even the use of submarines floating above archaeological sites have been attempted in Turkey (Drap 2013, 381).  The experiments of underwater photogrammetry have produced images of artifacts on the floors of the ocean with the aid of Remara 2000 submarines (Drap 2013, 385).  Photogrammetry can go one step further with the introduction of 360 degree cameras.  The introduction of 360 degree cameras would allow for the imaging of caves, landscape and archaeological exhibits for a full immersive experience.  The idea behind this interactive tour system stems from the simple 360 camera work of google maps.  In the case of google maps, I’m sure many of you have seen the smart cars with cameras mounted on top.   With stable cameras through exhibits of cave art, there would be a similar walkthrough pattern of terrestrial exhibits.  Additionally, through the digital technologies, there would be ample space for explanations and facts one could click on for more information (just like google maps).
