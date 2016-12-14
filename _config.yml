@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
+title: The Future of Archaeology
+description: "A couple of ideas of where I believe Archaeology is going"
 url: "http://www.jacoporabolini.com/emerald"
 author:
   name: "Jeffrey Wilson"
   email: "jeffreyhwilson.90@gmail.com"
-  url: "http://www.jacoporabolini.com"
+  url: "https://jwilson90.github.io/Final-Project-Jeffrey-Wilson/"
 
 # Build settings
  # Change this to your relative path (ex: /blog/), or leave just a /
